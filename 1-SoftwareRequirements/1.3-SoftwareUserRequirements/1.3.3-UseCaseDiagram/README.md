@@ -1,3 +1,3 @@
 ### Діаграма прецедентів програмного продукту
 
-![](./UseCaseDiagram1.jpg) 
+![](./UseCaseDiagram.jpg) 
