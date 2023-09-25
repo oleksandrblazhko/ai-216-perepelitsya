@@ -2,7 +2,7 @@
 
 |  FR  |  NFR  |        Тип NFR        |             Опис NFR             |
 | ---- | ----- | --------------------- | -------------------------------- |
-| FR1.1 | NFR2.1 | Time Perfomance | 1 хвилин |
+| FR1.1 | NFR2.1 | Time Perfomance | 1 хвилина |
 | FR1.2 | NFR2.2 | Time Perfomance | 10 секунд |
 | FR2.1 | NFR2.3 | Time Perfomance | 5 хвилин |
 | FR2.2 | NFR2.4 | Time Perfomance | 10 хвилин |
