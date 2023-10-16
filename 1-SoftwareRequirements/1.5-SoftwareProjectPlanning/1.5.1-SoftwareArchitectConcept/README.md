@@ -1,3 +1,3 @@
 ### Концептуальний опис архітектури програмного продукту
 
-![](./SoftwareArchitectConcept.jpg) 
+![](./SoftwareArchitectConcept1.jpg) 
