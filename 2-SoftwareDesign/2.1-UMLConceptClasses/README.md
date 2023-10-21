@@ -1,2 +1,2 @@
 ### UML-діаграма концептуальних класів
-![](./UMLConceptClasses.jpg) 
+![](./UMLConceptClasses1.jpg) 
