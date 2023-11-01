@@ -37,6 +37,6 @@ node "<<Server 3>>" as serv3 {
 }
 
 wp -- serv1
-serv1 -- serv2
+serv1 -- serv3
 
 @enduml
