@@ -4,24 +4,16 @@ title Usecase Diagram
 
 left to right direction
 
-actor Sportsmen
-actor Operator
+actor Teenager
 
 rectangle Software {
 
     usecase (pay for the order)
-    usecase (send a humidifier)
     usecase (authorization)
-    usecase (see a list)
-    usecase (notify)
 
-   :Operator: -- (send a humidifier)
-   :Operator: -- (notify)
-   (see a list) .> (authorization) : include
+   :Teenager: -- (pay for the order)
+   :Teenager: -- (authorization)
    (pay for the order) .> (authorization) : include
-   (notify) .> (authorization) : include
-   Sportsmen -- (see a list)
-   Sportsmen -- (pay for the order)
 }
 
 @enduml
