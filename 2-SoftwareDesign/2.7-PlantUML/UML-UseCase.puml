@@ -12,7 +12,6 @@ rectangle Software {
     usecase (authorization)
 
    :Teenager: -- (pay for the order)
-   :Teenager: -- (authorization)
    (pay for the order) .> (authorization) : include
 }
 
