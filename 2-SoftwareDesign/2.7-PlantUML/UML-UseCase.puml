@@ -12,7 +12,7 @@ rectangle Software {
     usecase (authorization)
 
    :Teenager: -- (pay for the order)
-   (pay for the order) .> (authorization) : include
+   
 }
 
 @enduml
