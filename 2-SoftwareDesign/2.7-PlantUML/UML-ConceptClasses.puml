@@ -1,0 +1,25 @@
+@startuml
+
+hide circle
+title Classes
+
+Class User {
+    num_card
+    val_per
+    cvv2
+}
+
+Class Operator {
+    
+}
+
+Class Customer {
+    telephone
+}
+
+User <|-- Customer
+
+Operator"1" --> "+"Customer : to notify
+Customer"1" --> "1"Operator : to provide 
+
+@enduml
