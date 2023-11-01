@@ -1,0 +1,47 @@
+@startuml
+title Example of Relation Schema
+
+hide circle
+
+entity "User" as us {
+    (PK) user_id
+    --
+    num_card
+    val_per
+    cvv2
+    --
+    (FK) customer_id
+}
+
+entity "Operator" as op {
+    (PK) operator_id
+}
+
+entity "Customer" as cus {
+    (PK) customer_id
+    --
+    num_card
+    val_per
+    cvv2
+    telephone
+    --
+    (FK) operator_id
+}
+
+entity "Purifier" as putis {
+    (PK) purifier_id
+    --
+    name
+    price
+    --
+    (FK) customer_id
+}
+
+op --{ us
+op -- us
+cus -- us
+cus --{ us
+op --{ cus
+cus -- op
+cus --{ putis
+@enduml
