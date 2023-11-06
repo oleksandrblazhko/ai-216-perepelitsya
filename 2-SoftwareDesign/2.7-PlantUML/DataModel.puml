@@ -38,10 +38,7 @@ entity "Purifier" as putis {
 }
 
 op --{ us
-op -- us
-cus -- us
 cus --{ us
 op --{ cus
-cus -- op
 cus --{ putis
 @enduml
