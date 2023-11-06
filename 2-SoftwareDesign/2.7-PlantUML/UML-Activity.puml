@@ -1,0 +1,26 @@
+@startuml
+
+title Activity Diagram (method order)
+
+start
+
+:Software takes the payment data;
+note right: the program takes user data (card number, card validity period and cvv2)
+
+:Software enters data into the electronic payment system;
+
+if (Is Data Correct?) then (yes)
+  if (Is the transaction successful?) then (yes)
+    :return receipt;
+  else (no)
+    :Unsuccessful transaction;
+    :return error number;
+endif  
+else (no)
+  :Your data is incorrect :(;
+  :return error number;
+endif
+
+stop
+
+@enduml
