@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" modified="2023-11-06T13:36:20.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5iYopwezZEVLhmlEWfBm" version="22.0.8" type="device">
+  <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0mY08jlZZPQDah0Fw9np-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="330" y="160" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-6" value="Оплатити замовлення" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=15;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry width="140" height="20" relative="1" as="geometry">
+            <mxPoint x="23" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-7" value="" style="shape=line;strokeColor=#668FFF;strokeWidth=1;html=1;resizeWidth=1;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-8" value="Назва очищувача" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-9" value="Очищувач А228" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry width="150" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-10" value="Ціна" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="104" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-12" value="Оплатити" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry y="1" width="90" height="30" relative="1" as="geometry">
+            <mxPoint x="55" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-18" value="100" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="0mY08jlZZPQDah0Fw9np-5" vertex="1">
+          <mxGeometry x="10" y="130" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-19" value="Оплата успішно&lt;br&gt;проведена. Чекайте дзвінка оператора" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-20" value="Успішно!" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;whiteSpace=wrap;" parent="0mY08jlZZPQDah0Fw9np-19" vertex="1">
+          <mxGeometry width="210" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-21" value="Х" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" parent="0mY08jlZZPQDah0Fw9np-20" vertex="1">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0mY08jlZZPQDah0Fw9np-22" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" parent="0mY08jlZZPQDah0Fw9np-19" vertex="1">
+          <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
+            <mxPoint x="-60" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2nRl-AkqdyDhM134WjIi-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0mY08jlZZPQDah0Fw9np-12" target="0mY08jlZZPQDah0Fw9np-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="310" as="sourcePoint" />
+            <mxPoint x="560" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
