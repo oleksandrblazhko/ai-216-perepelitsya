@@ -7,7 +7,7 @@ BEGIN
     END IF;
     
     DBMS_OUTPUT.PUT('TC1.2: ');
-    IF NOT order_purifier('aaa', 345) THEN --тут я використав менше 100 символів замість, а не більше, бо виникає помилка
+    IF NOT order_purifier('аааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа', 345) THEN 
         DBMS_OUTPUT.PUT_LINE('Passed');
     ELSE
         DBMS_OUTPUT.PUT_LINE('Failed');
